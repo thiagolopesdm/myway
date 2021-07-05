@@ -28,7 +28,6 @@ initializing the application:
 ```
 yarn start
 ```
-Para acessar o servidor local utilize: http://localhost:3000 
 
 <br>
 
